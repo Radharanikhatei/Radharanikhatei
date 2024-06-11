@@ -15,7 +15,7 @@
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, my sql**
 - 📧 How to reach me <b>**radharanikhatai9777@gmail.com**</b>
-- 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
+- 👨‍💻 Know more about me <b><a href="https://radharanikhatei.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
 - 📰 Write article on <b><a href="https://medium.com/@radharanikhatei" target="_blank" rel="noopener noreferrer">Blogs</a></b>
 - 📄 Check out my <b><a href="https://drive.google.com/file/d/1m3s08EUctgjY3S4xVi7f_wJNMu_io_yb/view?usp=share_link" target="_blank" rel="noopener noreferrer">Resume</a></b>
 
