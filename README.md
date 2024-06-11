@@ -64,16 +64,16 @@
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radharanikhatei"        alt="radharanikhatei"/></a> </p>
  <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radharanikhatei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="radharanikhatei"/>
- <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=radharanikhatei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="radharanikhatei" /></p> 
- <a href="https://github.com/radharanikhatei/github-readme-stats">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radharanikhatei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="promodjena"/>
+ <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=radharanikhatei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="promodjena" /></p> 
+ <a href="https://github.com/promodjena/github-readme-stats">
  <img align="left" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=radharanikhatai&&theme=highcontrast" alt="radharanikhatei" />
  </a>
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
 <!---
-radharanikhatei/radharanikhatei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pramodjena/promodjenais a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m @Radharanikhatei
