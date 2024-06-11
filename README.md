@@ -2,12 +2,12 @@
 
 <h1 align="center">Hiiii 👋, I'm  Radha Rani Khatai</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="![IMG_20231218_171225](https://github.com/Radharanikhatei/Radharanikhatei/assets/172359280/2b5f0d26-fc1b-4d6c-be1d-6c43b30a113f)/?lines=Full+Stack+Developer;>
 </div>
-<h4 align="center"> I'm a graduate in B.Tech(CSE) from  Biju Pattanaik University of Technology, India. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
+<h4 align="center"> I'm a graduate in BCA from ACADEMY OF TECHNOCRATES in berhampur univercity, India. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 </h4>
 </a> </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=radharanikhatai&label=Profile%20views&color=0e75b6&style=flat" alt="radha" /> </p> -->
 <!-- <img height="200px" width="400px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/> -->
 
 ##  About Me 
@@ -22,9 +22,8 @@
    
 
 ##  Connect with me
-[![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://pramodjena.github.io/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-kumar-jena-851738233/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pramoodjena@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Radha Rani Khatai/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radharanikhatai9777@gmail.com)
 
 
  <div align="center"><h3 align="center">Frontend</h3>
@@ -63,21 +62,21 @@
   <br/>
   <br/>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramodjena"        alt="pramodjena"/></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radharanikhatai"        alt="radharanikhatai"/></a> </p>
  <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodjena&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="pramodjena"/>
- <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=pramodjena&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="pramodjena" /></p> 
- <a href="https://github.com/pramodjena/github-readme-stats">
- <img align="left" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodjena&&theme=highcontrast" alt="pramodjena" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radharanikhatai&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="radharanikhatai"/>
+ <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=radharanikhatai&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="radharanikhatai" /></p> 
+ <a href="https://github.com/radharanikhatei/github-readme-stats">
+ <img align="left" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=radharanikhatai&&theme=highcontrast" alt="radharanikhatai" />
  </a>
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
 <!---
-Pramodjena/Pramodjena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+radharanikhatai/radharanikhatai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 👋 Hi, I’m @Radharanikhatei
+- 👋 Hi, I’m @Radharanikhatai
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
